@@ -1,8 +1,10 @@
 # Result Narration Checklist
 
-
 - [ ] A1: Layout Implementation. UI Framework: _________
-  - [ ] Home Screen
+  - [ ] Use the exact font designed in figma
+  - [ ] Use the exact colors and spacing designed in figma
+  - [ ] Pixel perfect implementation
+  - [ ] Handle interactive states (carousel, hover, etc.)
 
 - [ ] A2: Multi-Step Form with Live PDF Preview. Libaries used: ______________________
   - [ ] Implement a multi-step form with at least 3 steps.
