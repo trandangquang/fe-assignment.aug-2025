@@ -30,7 +30,7 @@ Remember reply to email when you complete the assignment.
 
 ## A1: Layout Implementation
 
-Implement Figma Screens into HTML and CSS, using frameworks like TailwindCSS, Bootstrap, or custom CSS.
+Implement Figma Screens, using frameworks like TailwindCSS, Bootstrap, or custom CSS.
 - Download and import [Design](rfx_figma_recur_aug_2025.fig) to your figma.
 - Use the exact font designed in figma
 - Use the exact colors and spacing designed in figma
