@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montez&display=swap');
+@import 'tailwindcss';
+
+:root {
+  --font-primary: 'Inter', sans-serif;
+  --font-montez: 'Montez', cursive;
+}
+
+body {
+  font-family: var(--font-primary);
+}
