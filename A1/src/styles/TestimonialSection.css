@@ -1,0 +1,30 @@
+.testimonial .swiper {
+
+  position: relative;
+}
+
+.testimonial .swiper-pagination-lock {
+  display: block !important;
+}
+
+
+.testimonial .swiper-pagination {
+  bottom: 10px;
+  display: flex !important;
+  gap: 20px !important;
+  justify-content: center !important;
+}
+
+
+
+.testimonial .swiper-pagination-bullet {
+  width: 16px !important;
+  height: 16px !important;
+  background: #fff !important;
+  opacity: 1 !important;
+  border: 1px solid #000 !important;
+}
+
+.testimonial .swiper-pagination-bullet-active {
+  background: #00bcd4 !important;
+}
